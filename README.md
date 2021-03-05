@@ -1,4 +1,2 @@
 # Practise1
-My hello world!
-
-print('Hello world!')
+Use python laguage to finish work!
