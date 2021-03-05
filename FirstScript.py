@@ -1,3 +1,5 @@
+#staticmethod example
+
 import time
 
 class TimeTest(object):
